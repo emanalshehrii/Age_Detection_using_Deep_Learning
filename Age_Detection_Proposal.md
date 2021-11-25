@@ -7,7 +7,8 @@ So, in this project we're going to use facial features analysis to estimate the 
 
 ## Data Description
 - In this project we choose the [UTKFace dataset](https://www.kaggle.com/jangedoo/utkface-new) from Kaggle.
-- This dataset contains 19906 images. The attributes of data are **ID** – Unique ID of image and **Class**  Age bin of person in image.
+- The dataset consists of over 20,000 face images with annotations of age, gender, and ethnicity.
+
 ## Tools
 **The tools we will use in our project:**
 - python, and Jupyter Notebook.

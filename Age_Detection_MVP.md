@@ -7,7 +7,7 @@
 ## EDA
 <img src =https://github.com/emanalshehrii/Age_Detection_using_Deep_Learning/blob/main/images/newplot%20(1).png/>
 
-As seen above the age ranges between 0 to 116, in this project we will try to categorize it into groups.
+As seen above the age ranges between 1 to 116, in this project we will try to categorize it into groups.
 
 ## Building Simple Neural Network
 

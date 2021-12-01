@@ -4,6 +4,11 @@
 
 - The main objective of this project is to use deep learning algorithms in order to estimate the age from facial image.
 
+## EDA
+<img src =https://github.com/emanalshehrii/Age_Detection_using_Deep_Learning/blob/main/images/newplot%20(1).png/>
+
+As seen above the age ranges between 0 to 116, in this project we will try to categorize it into groups.
+
 ## Building Simple Neural Network
 
 <img src = https://github.com/emanalshehrii/Age_Detection_using_Deep_Learning/blob/main/images/Screen%20Shot%201443-04-26%20at%205.43.40%20PM.png/>

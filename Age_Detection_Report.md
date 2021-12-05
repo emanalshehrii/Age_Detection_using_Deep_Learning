@@ -16,7 +16,7 @@ So, in this project we used **UTKFace dataset** to estimate the age from facial 
 - [date&time] is in the format of yyyymmddHHMMSSFFF, showing the date and time an image was collected to UTKFace
 
 ## Preprocessing 
-The labels of each image is embedded in the file name, formated like [age][gender][race][date&time].jpg. So, we extracted each feature to diffrent arrays to deal with it easly.
+The labels of each image is embedded in the file name, formated like [age]|_[gender]_[race]_[date&time].jpg. So, we extracted each feature to diffrent arrays to deal with it easly.
 
 ## Algorithms
 

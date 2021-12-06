@@ -5,10 +5,10 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI.
 # About the repository:
 - [Project Proposal](https://github.com/emanalshehrii/Age_Detection_using_Deep_Learning/blob/main/Age_Detection_Proposal.md)
 - [Project MVP](https://github.com/emanalshehrii/Age_Detection_using_Deep_Learning/blob/main/Age_Detection_MVP.md)
-- [Jupyter Notebooks]()
+- [Jupyter Notebooks](https://github.com/emanalshehrii/Age_Detection_using_Deep_Learning/tree/main/Jupyter%20notebook)
 - [Images](https://github.com/emanalshehrii/Age_Detection_using_Deep_Learning/tree/main/images)
 - [Final Report](https://github.com/emanalshehrii/Age_Detection_using_Deep_Learning/blob/main/Age_Detection_Report.md)
-- [Slides Presentation]()
+- [Slides Presentation](https://github.com/emanalshehrii/Age_Detection_using_Deep_Learning/blob/main/Age_Detection.pdf)
 ### Contact Me
 For any questions please contact me <br/>
 - [LinkedIn](https://www.linkedin.com/in/eman-mohammed/)

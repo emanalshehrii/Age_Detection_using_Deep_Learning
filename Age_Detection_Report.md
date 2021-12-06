@@ -3,7 +3,7 @@
 
 ## Abstract 
 Recently, many applications using biometrics to extract information from face images such as age, gender, and emotional state. 
-So, in this project we used **UTKFace dataset** to estimate the age from facial features analysis. The main objective of this project is to use deep-learning algorithms in order to estimate the age from facial images.
+So, in this project we used **UTKFace dataset** to estimate the age from facial features analysis. The main objective of this project is to use Neural Network which is a type of deep-learning algorithms in order to estimate the age from facial images.
 
 ## Data Description 
 
@@ -22,16 +22,16 @@ The labels of each image is embedded in the file name, formated like [age]_[gend
 
 Six models have been applied, which are: **Logistic Regression**, **Simple NN**, **CNN**, and **Transfer learning with VGG16, MobileNetV2 and EfficientNetB0**.
 
-Accordingly, we choose __EfficientNetB0__ because it has the best accuracy score. 
+Accordingly, we choose __Convolutional Neural Networks__ because it has the best accuracy score. 
 
 #### Training
-__Score__: <br/>
+__Score__:  0.5358 <br/>
 
 #### Validation
-__Score__:  <br/>
+__Score__: 0.4611 <br/>
 
 #### Testing
-__Score__:  <br/>
+__Score__: 0.365 <br/>
 
 ## Tools
 Here the basic tools we used in our project: <br/>
